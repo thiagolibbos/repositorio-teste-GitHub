@@ -2,9 +2,9 @@
 
 ## Objetivos da aula
 
-1. Criar um repositório local e adicioná-lo ao nosso GItHub -remoto; [ ]
+1. Criar um repositório local e adicioná-lo ao nosso GItHub -remoto; [ X ]
 
-2. Clonar um repositório remoto para nosso computador local; [ ]
+2. Clonar um repositório remoto para nosso computador local; [ X ]
 
 3. Fazer Alterações >> Adicionar, Commitar, Enviar Arquivos; [ ]
 
